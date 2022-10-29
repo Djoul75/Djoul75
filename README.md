@@ -2,7 +2,7 @@
 <h3 align="left">A passionate fullstack developer from France 🇫🇷</h3>
 
 - 🔭 I’m currently working on **Ruby on Rails & JavaScript**
-- 🌱 I'm currently learning **Flutter & React** 
+- 🌱 I'm currently learning **React** 
 - 💼 I'm currently looking for a new job 👉 https://www.linkedin.com/in/jules-gorce-850532188/
 - 📫 How to reach me **jules.gorce@gmail.com**
 
